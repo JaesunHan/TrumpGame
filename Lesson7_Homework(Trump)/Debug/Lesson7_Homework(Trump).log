@@ -1,0 +1,5 @@
+﻿  trump.cpp
+c:\users\kapoo\onedrive\문서\visual studio 2017\projects\lesson7_homework(trump)\lesson7_homework(trump)\trump.cpp(26): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kapoo\onedrive\문서\visual studio 2017\projects\lesson7_homework(trump)\lesson7_homework(trump)\trump.cpp(159): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Lesson7_Homework(Trump).vcxproj -> C:\Users\kapoo\onedrive\문서\visual studio 2017\Projects\Lesson7_Homework(Trump)\Debug\Lesson7_Homework(Trump).exe
+  Lesson7_Homework(Trump).vcxproj -> C:\Users\kapoo\onedrive\문서\visual studio 2017\Projects\Lesson7_Homework(Trump)\Debug\Lesson7_Homework(Trump).pdb (Partial PDB)
